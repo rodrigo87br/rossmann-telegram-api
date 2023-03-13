@@ -69,7 +69,7 @@ def predict(data):
 
 def parse_message(message):
     chat_id = message['message']['chat']['id']
-    sore_id = message['message']['text']
+    store_id = message['message']['text']
 
     store_id = store_id.repalce('/', '')
 
