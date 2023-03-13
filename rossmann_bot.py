@@ -14,7 +14,7 @@ token = '6278634869:AAGqPMjNTlmdvwK_CS-tTjxjPCKPjy-AAno'
 # https://api.telegram.org/bot6278634869:AAGqPMjNTlmdvwK_CS-tTjxjPCKPjy-AAno/getUpdates
 #
 # #WebHook
-# https://api.telegram.org/bot6278634869:AAGqPMjNTlmdvwK_CS-tTjxjPCKPjy-AAno/setWebhook?url
+# https://api.telegram.org/bot6278634869:AAGqPMjNTlmdvwK_CS-tTjxjPCKPjy-AAno/setWebhook?url=https://rossmann-telegram-api-o175.onrender.com
 #
 # #send message
 # https://api.telegram.org/bot6278634869:AAGqPMjNTlmdvwK_CS-tTjxjPCKPjy-AAno/sendMessage?chat_id=6249403913&text=Hi Rodrigo!!
