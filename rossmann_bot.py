@@ -71,7 +71,7 @@ def parse_message(message):
     chat_id = message['message']['chat']['id']
     store_id = message['message']['text']
 
-    store_id = store_id.repalce('/', '')
+    store_id = store_id.replace('/', '')
 
     try:
         store_id = int(store_id)
